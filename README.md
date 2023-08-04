@@ -1,1 +1,2 @@
-# hello-world
+Exercício:
+fazendo comandos git
